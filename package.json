@@ -1,0 +1,27 @@
+{
+  "name": "e-commorce-bakend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yogeshwarathe/e-commorce-bakend.git"
+  },
+  "author": "yogesh warathe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yogeshwarathe/e-commorce-bakend/issues"
+  },
+  "homepage": "https://github.com/Yogeshwarathe/e-commorce-bakend#readme",
+  "dependencies": {
+    "date-and-time": "^0.9.0",
+    "dev": "^0.1.3",
+    "express": "^4.17.1",
+    "knex": "^0.17.6",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
