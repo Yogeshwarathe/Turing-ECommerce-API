@@ -1,11 +1,11 @@
-# Turing-ECommerce-API
+## Turing-ECommerce-API
 In this project I worked with a real life web application to write its Backend code
 
-# Backend of an e-commerce website
+## Backend of an e-commerce website
 In this project, I have made a backend of an e-commerce website using Express framework of NodeJS. Here's the swagger, but you need to pass the test for it first here. 
 I have also used JWT-authentication token to verify the if the customer is valid or not. We are already given the mysql-database in which there are different tables and their data. We've to write different queries for different endpoints to make them working.
 
-# Requirements
+## Requirements
 Installation process and Execution
 First and foremost, If you'are using Linux-based-OS, open your terminal and install the latest version of NodeJS and npm. You do also need to install mysql database onto your system. by writing the following commands. 
 This will install NodeJS version-12 and npm version-6 on your system.
